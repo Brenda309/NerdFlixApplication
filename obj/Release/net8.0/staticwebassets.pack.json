@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\NerdFlixApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NerdFlixApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\25818853-765a-4b65-a984-0dd0fd409a69.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\25818853-765a-4b65-a984-0dd0fd409a69.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\4a2e19a8-819f-4bff-b308-3768a68a8b4c.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\4a2e19a8-819f-4bff-b308-3768a68a8b4c.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\6644e546-edd8-41c2-a7a4-2ccc9b1b6429.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\6644e546-edd8-41c2-a7a4-2ccc9b1b6429.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\74610b39-4cd2-4385-92b3-fefb4e77bbdb.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\74610b39-4cd2-4385-92b3-fefb4e77bbdb.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\78f2d537-5231-418c-ab7a-21583784a9a3.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\78f2d537-5231-418c-ab7a-21583784a9a3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\872330f3-a2d2-48bd-b05e-e9f31381868d.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\872330f3-a2d2-48bd-b05e-e9f31381868d.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\955f123e-36c1-4f3e-9136-11d3505c75f7.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\955f123e-36c1-4f3e-9136-11d3505c75f7.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\9d49e37c-1faa-4195-9271-293589755c3f.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\9d49e37c-1faa-4195-9271-293589755c3f.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\a0e1baac-ded0-4888-9a9f-a9ebe32aecd8.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\a0e1baac-ded0-4888-9a9f-a9ebe32aecd8.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\a296bda4-cb1b-4c93-8277-e98fae65260e.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\a296bda4-cb1b-4c93-8277-e98fae65260e.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\aa14b999-bddb-476f-886f-38a362967656.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\aa14b999-bddb-476f-886f-38a362967656.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\be21e775-d654-4dc4-8778-0b8e66ba6ee6.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\be21e775-d654-4dc4-8778-0b8e66ba6ee6.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\d32daf31-3aea-4284-932b-fe9ac7844975.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\d32daf31-3aea-4284-932b-fe9ac7844975.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\d9b39e15-bcec-4860-9ee7-65d8fafd1eee.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\d9b39e15-bcec-4860-9ee7-65d8fafd1eee.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\dd5102b1-a031-4f66-8119-22a180055972.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\dd5102b1-a031-4f66-8119-22a180055972.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\e87f4e72-6be9-4730-a404-5ffd36b14dc4.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\e87f4e72-6be9-4730-a404-5ffd36b14dc4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\Uploads\\e8828949-558b-4ee4-ac29-22903bfb40ef.mp4",
+      "PackagePath": "staticwebassets\\Uploads\\e8828949-558b-4ee4-ac29-22903bfb40ef.mp4"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\brendawihogora\\source\\repos\\NerdFlixApplication\\NerdFlixApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.NerdFlixApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.NerdFlixApplication.props",
+      "PackagePath": "build\\NerdFlixApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NerdFlixApplication.props",
+      "PackagePath": "buildMultiTargeting\\NerdFlixApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.NerdFlixApplication.props",
+      "PackagePath": "buildTransitive\\NerdFlixApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
